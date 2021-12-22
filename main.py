@@ -1,10 +1,3 @@
-a: float #casting
-b: int
-a = 5.32
-b= int (a)
-print("b =",b)
-print(f"b = {b}")
-
 
 x = 1.456789999
 idade = 20
